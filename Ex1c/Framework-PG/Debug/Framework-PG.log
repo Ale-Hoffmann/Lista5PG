@@ -1,0 +1,4 @@
+﻿  SceneManager.cpp
+C:\Users\PC\Documents\GitHub\Lista5\Lista 5\Ex1c\Framework-PG\SceneManager.cpp(121,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\PC\Documents\GitHub\Lista5\Lista 5\Ex1c\Framework-PG\SceneManager.cpp(212,20): warning C4018: '<': incompatibilidade de signed/unsigned
+  Framework-PG.vcxproj -> C:\Users\PC\Documents\GitHub\Lista5\Lista 5\Ex1c\Debug\Framework-PG.exe

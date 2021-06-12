@@ -1,0 +1,6 @@
+﻿  SceneManager.cpp
+C:\Users\PC\Desktop\PG2021-1-main\Framework-PG\Framework-PG\SceneManager.cpp(117,20): warning C4018: '<': incompatibilidade de signed/unsigned
+  Source.cpp
+  Sprite.cpp
+  Gerando Código...
+  Framework-PG.vcxproj -> C:\Users\PC\Desktop\PG2021-1-main\Framework-PG\Debug\Framework-PG.exe
